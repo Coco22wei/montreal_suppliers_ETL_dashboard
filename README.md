@@ -95,6 +95,11 @@ SWITCH(
 
 - Slicers for interactive filtering
 
+## 📸 Dashboard Overview
+
+![Dashboard Overview](suppliers-etl-overview-dashboard.png)
+
+
 ## 📁 Repository Structure
 📁 montreal_suppliers_powerbi
 │
